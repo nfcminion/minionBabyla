@@ -1,2 +1,2 @@
 # minionbabyla
-https://minion.github.io/minionBabyla
+https://nfcminion.github.io/minionBabyla/
